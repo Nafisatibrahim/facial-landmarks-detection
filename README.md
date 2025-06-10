@@ -6,6 +6,17 @@ A Simple Computer Vision Web App for Visualizing Facial Mesh
 ## 🧭 Overview  
 This project implements real-time facial landmark detection using **MediaPipe Face Mesh** and displays facial mesh lines on portrait images via a **Streamlit web app**. Rather than predicting expressions or performing face recognition, the focus is on understanding facial structure through mesh overlay.
 
+## 🚀 Live Demo  
+🔗 [Web App hosted on Streamlit Cloud](https://facial-landmarks-detection.streamlit.app/)
+
+<p align="center">
+  <video width="600" controls>
+    <source src="./facial_landmarks_detection_demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+
 Key steps included:
 
 - Image upload and preprocessing using Pillow and NumPy
@@ -58,8 +69,9 @@ Key steps included:
 
 ---
 
-## 🚀 Live Demo
-> Coming soon — hosted on Streamlit Cloud
+## 🚀 Live Demo  
+🔗 [Web App hosted on Streamlit Cloud](https://facial-landmarks-detection.streamlit.app/)
+
 
 ---
 
@@ -71,6 +83,6 @@ Key steps included:
 ## 📥 Resources & Downloads
 - 📄 [View Source Code (`app.py`)](./app.py)
 - 📦 [View Requirements (`requirements.txt`)](./requirements.txt)
-- 🛠️ [System Dependencies (`apt-packages`)](./apt-packages)
+- 🛠️ [System Dependencies (`packages.txt`)](./packages.txt)
 
 ---
