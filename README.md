@@ -10,12 +10,8 @@ This project implements real-time facial landmark detection using **MediaPipe Fa
 🔗 [Web App hosted on Streamlit Cloud](https://facial-landmarks-detection.streamlit.app/)
 
 <p align="center">
-  <video width="600" controls>
-    <source src="./facial_landmarks_detection_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="./facial_landmarks_detection_demo.gif" alt="Facial Landmark Detection Demo" width="600"/>
 </p>
-
 
 Key steps included:
 
